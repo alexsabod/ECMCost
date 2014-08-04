@@ -1,0 +1,8 @@
+D:\Programming\Экомол\ecomol\ECMCost\ECMCost\obj\x86\Debug\ECMCost.csprojResolveAssemblyReference.cache
+D:\Programming\Экомол\ecomol\ECMCost\ECMCost\obj\x86\Debug\ECMCost.Form1.resources
+D:\Programming\Экомол\ecomol\ECMCost\ECMCost\obj\x86\Debug\ECMCost.Properties.Resources.resources
+D:\Programming\Экомол\ecomol\ECMCost\ECMCost\obj\x86\Debug\ECMCost.csproj.GenerateResource.Cache
+D:\Programming\Экомол\ecomol\ECMCost\ECMCost\bin\Debug\ECMCost.exe
+D:\Programming\Экомол\ecomol\ECMCost\ECMCost\bin\Debug\ECMCost.pdb
+D:\Programming\Экомол\ecomol\ECMCost\ECMCost\obj\x86\Debug\ECMCost.exe
+D:\Programming\Экомол\ecomol\ECMCost\ECMCost\obj\x86\Debug\ECMCost.pdb
